@@ -3,4 +3,4 @@ add dogs
 add_cats
 add mouse
 add australian animals
-add 7 kangaroo
+add 8 kangaroo
